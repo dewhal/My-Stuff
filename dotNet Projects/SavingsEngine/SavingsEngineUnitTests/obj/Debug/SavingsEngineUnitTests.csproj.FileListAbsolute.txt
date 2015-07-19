@@ -1,0 +1,4 @@
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingsEngineUnitTests\bin\Debug\SavingsEngineUnitTests.dll
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingsEngineUnitTests\bin\Debug\SavingsEngineUnitTests.pdb
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingsEngineUnitTests\obj\Debug\SavingsEngineUnitTests.dll
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingsEngineUnitTests\obj\Debug\SavingsEngineUnitTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\bin\Debug\SavingEngineUI.exe
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\bin\Debug\SavingEngineUI.pdb
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\obj\x86\Debug\SavingEngineUI.Properties.Resources.resources
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\obj\x86\Debug\SavingEngineUI.csproj.GenerateResource.Cache
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\obj\x86\Debug\SavingEngineUI.exe
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\SavingsEngine\SavingEngineUI\obj\x86\Debug\SavingEngineUI.pdb

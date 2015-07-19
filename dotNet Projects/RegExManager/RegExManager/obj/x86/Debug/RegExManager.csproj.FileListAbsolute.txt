@@ -1,0 +1,8 @@
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\bin\Debug\RegExManager.exe
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\bin\Debug\RegExManager.pdb
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.Form1.resources
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.Properties.Resources.resources
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.csproj.GenerateResource.Cache
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.exe
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.pdb
+C:\Users\Rich\Documents\GitHub\My-Stuff\dotNet Projects\RegExManager\RegExManager\obj\x86\Debug\RegExManager.csprojResolveAssemblyReference.cache
